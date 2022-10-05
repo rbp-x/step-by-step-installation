@@ -1,5 +1,5 @@
 1. Download Oracle JDK8 
-link : https://login.oracle.com/
+link : https://www.oracle.com/java/technologies/downloads/
 
 In console :
 
